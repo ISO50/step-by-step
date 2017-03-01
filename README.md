@@ -52,3 +52,7 @@ const promises = [
 
 runSync(promises);
 ```
+
+## Changelog
+
+* `1.0.2` - add typings see #1
