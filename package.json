@@ -1,6 +1,6 @@
 {
   "name": "step-by-step",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Tiny tooling to execute Promises in a synchronous manner",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
