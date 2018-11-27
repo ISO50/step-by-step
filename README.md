@@ -55,6 +55,7 @@ runSync(promises);
 
 ## Changelog
 
+* `1.0.8` - updated dev dependencies
 * `1.0.6` - changed typings
 * `1.0.4` - fix wrong export 😀
 * `1.0.2` - add typings see #1
