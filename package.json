@@ -5,8 +5,8 @@
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "scripts": {
-    "test": "mocha --opts test/mocha.opts",
-    "tdd": "mocha --opts test/mocha.opts --watch",
+    "test": "mocha",
+    "tdd": "mocha --watch",
     "lint": "eslint lib/**/*.js test/**/*.js",
     "prepublishOnly": "npm run test && npm run lint"
   },
@@ -27,6 +27,6 @@
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
     "eslint": "5.9.0",
-    "mocha": "5.2.0"
+    "mocha": "8.2.1"
   }
 }
